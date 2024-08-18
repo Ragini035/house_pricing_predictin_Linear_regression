@@ -1,1 +1,1 @@
-# house_pricing_predictin_Linear_regression
+# house_pricing_prediction_Linear_regression
